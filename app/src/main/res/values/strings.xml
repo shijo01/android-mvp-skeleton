@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MVP Skeleton</string>
+    <string name="some_error">Something went wrong</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="action_settings">Settings</string>
+</resources>
